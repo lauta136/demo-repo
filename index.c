@@ -1,7 +1,5 @@
 int main()
 {
-    int a = 0;
-    
-    printf("hola mundo, jorge!",a);
+    printf("hola forro!");
     return 0;
 }
